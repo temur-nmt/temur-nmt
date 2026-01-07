@@ -5,7 +5,8 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 
-[![Check this out!](https://github-readme-stats-fast.vercel.app/api/pin/?username=temur-nmt&repo=Mad-Machines&theme=tokyonight&show_owner=true)](https://github.com/temur-nmt/Mad-Machines)
+[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=temur-nmt&repo=Mad-Machines&theme=tokyonight&show_owner=true)](https://github.com/temur-nmt/Mad-Machines)\
+[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=temur-nmt&repo=AI-Chef-Mixtral&theme=tokyonight&show_owner=true)](https://github.com/temur-nmt/AI-Chef-Mixtral)\
 
 <!-- ![temur-nmt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=temur-nmt&theme=tokyonight&hide_border=false) --> 
 ![temu-nmt's streak](https://github-readme-stats-fast.vercel.app/api/streak?username=temur-nmt&show_icons=true&theme=tokyonight)
