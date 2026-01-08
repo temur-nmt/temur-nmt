@@ -1,20 +1,40 @@
-## Moin 👋
+<h1 align="center">Moin 👋</h1>
 
-**CS Student from der echte Norden. Humanities enjoyer, intermediate Programmer and connoisseur of turkish sandwiches**
+###
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
+<h2 align="left">CS Student from der echte Norden. Humanities enjoyer, intermediate Programmer and connoisseur of turkish sandwiches.</h2>
 
-[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=temur-nmt&repo=Mad-Machines&theme=tokyonight&show_owner=true)](https://github.com/temur-nmt/Mad-Machines)\
-[![](https://github-readme-stats-fast.vercel.app/api/pin/?username=temur-nmt&repo=AI-Chef-Mixtral&theme=tokyonight&show_owner=true)](https://github.com/temur-nmt/AI-Chef-Mixtral)\
+###
 
-<!-- ![temur-nmt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=temur-nmt&theme=tokyonight&hide_border=false) --> 
-![temu-nmt's streak](https://github-readme-stats-fast.vercel.app/api/streak?username=temur-nmt&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="60" alt="aarch64 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temur-nmt&card_width=495&layout=normal&theme=tokyonight)](https://github.com/temur-nmt/github-readme-stats) -->
-![temu-nmt's top langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=temur-nmt&show_icons=true&theme=tokyonight)
+###
 
+<div align="center">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=temur-nmt&icon=5&color=11)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=temur-nmt&show_icons=true&theme=tokyonight&rank_icon=github&card_width=500px"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=temur-nmt&show_icons=true&theme=tokyonight&card_width=500px"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=temur-nmt&show_icons=true&theme=tokyonight&layout=compact&card_width=1000px"  />
+</div>
+
+###
