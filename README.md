@@ -32,9 +32,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=temur-nmt&show_icons=true&theme=tokyonight&rank_icon=github&hide_border&card_width=1000px"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=temur-nmt&show_icons=true&theme=tokyonight&hide_border&card_width=1000px"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=temur-nmt&show_icons=true&theme=tokyonight&layout=compact&hide_border&card_width=1000px"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=temur-nmt&show_icons=true&theme=tokyonight&rank_icon=github&hide_border&card_width=500px"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=temur-nmt&show_icons=true&theme=tokyonight&hide_border&card_width=500px"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=temur-nmt&show_icons=true&theme=tokyonight&layout=compact&hide_border&card_width=500px"  />
 </div>
 
 ###
